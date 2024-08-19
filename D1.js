@@ -46,7 +46,11 @@ console.log(somma); */
 */
 
 /* myName = "Guglielmo";
-console.log(myName); */
+console.log(myName);
+const nome = "Federica";
+nome = "Guglielmo";
+console.log(nome);
+*/
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra il numero 4 e la variable "x" appena dichiarata (che contiene il numero 12).
@@ -61,9 +65,11 @@ console.log(x); */
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-/*let name1 = "john";
+/*
+let name1 = "john";
 let name2 = "John";
-let control = name1 == name2 ? true : false;
+let control = name1 === name2 ? true : false;
 console.log(control);
-let control2 = name1 == name2.toLowerCase() ? true : false;
-console.log(control2); */
+let control2 = name1 === name2.toLowerCase() ? true : false;
+console.log(control2);
+*/
